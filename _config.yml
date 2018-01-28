@@ -84,7 +84,7 @@ author:
   location         : "Rice University, Houston"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=shiEbtEAAAAJ&hl=en"
-  email            :
+  email            : "mailto:svd3@rice.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
