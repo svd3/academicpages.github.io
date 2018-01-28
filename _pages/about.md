@@ -9,7 +9,4 @@ redirect_from:
 ---
 
 Welcome to my homepage
-
-
-
 Lorem ipsum.
