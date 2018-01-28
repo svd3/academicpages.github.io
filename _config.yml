@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saurabh Daptardar / Site Title"
+title                    : "Saurabh Daptardar"
 title_separator          : "-"
 name                     : &name "Saurabh Daptardar"
-description              : &description "personal description"
+description              : &description "EE Graduate student at Rice"
 url                      : https://svd3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "svd3.github.io"
