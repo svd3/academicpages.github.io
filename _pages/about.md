@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Webpage"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,5 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage
+Hi I'm Saurabh. I'm currently a Ph.D student in Electrical Engineering at Rice University.
+I'm working with Dr. Xaq Pitkow in his computational neuroscience lab.
+
+Before starting at Rice, I worked at Samsung Research for 2 years.
+
+I did my undergraduate in Electrical Engineering from IIT Madras
 Lorem ipsum.
