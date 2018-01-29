@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[pdf] ('http://svd3.github.io/files/resume.pdf')
+
 Education
 ======
 * B.Tech. in Electrical Engineering, Indian Institute of Technology Madras, 2014
