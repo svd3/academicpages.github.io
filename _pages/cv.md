@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV" [pdf](http://academicpages.github.io/files/paper1.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
