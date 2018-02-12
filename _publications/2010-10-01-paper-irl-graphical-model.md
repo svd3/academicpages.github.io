@@ -7,7 +7,8 @@ excerpt: 'Inverse Reinforcement learning'
 date: 2017-11-27
 venue: 'Under work'
 paperurl: 'http://academicpages.github.io/files/irl.pdf' #add arxiv link
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+#citation: 'Daptardar, Saurabh. (2017). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Daptardar, Saurabh. (2017).'
 ---
 Inverse Reinforcement learning
 
