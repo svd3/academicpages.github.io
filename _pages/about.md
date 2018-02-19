@@ -13,7 +13,7 @@ I'm working with Dr. Xaq Pitkow in his computational neuroscience lab.
 
 Before starting at Rice, I worked at Samsung Research for 2 years.
 
-I did my undergraduate in Electrical Engineering from IIT Madras.
+I did my undergraduate in Electrical Engineering from IIT Madras and graduated in 2014.
 
 
-My research interests are Reinforcement Learning, Machine Learning and Graphical Models
+My research interests are Reinforcement Learning, Deep Learning, Machine Learning and Graphical Models.
