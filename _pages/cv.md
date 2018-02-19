@@ -10,16 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-.markdown-preview.markdown-preview {
- &, h4, h5, h6 {
-   font-size: 1em;
-  }
-
-  h1 { font-size: 1.5em; }
-  h2 { font-size: 1.25em; }
-  h3 { font-size: 1.125em; }
-}
-
 Education
 ======
 ---
