@@ -33,7 +33,7 @@ Work experience
 
 Projects
 ======
-* Single Frame Image Super Resolution: B.Tech Final Project, (2013 - 2014)
+* Single Frame Image Super Resolution: B.Tech Final Project, (2013 - 2014)\n
 _Prof. Devendra Jalihal_
   * Implemented the kernel Hebbian algorithm for single frame image super resolution
   * Integrated algorithm into a web application for medical/agricultural advisory.
@@ -59,15 +59,17 @@ Skills
 * Deep learning frameworks:
   * PyTorch, Tensorflow, Keras
 
+Honors & Awards
+======
+(2016) **Fellowship**, Rice ECE Department Fellowship
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Honors & Awards
-======
-(2016) **Fellowship**, Rice ECE Department Fellowship 
+
 
 <!---
 Talks
