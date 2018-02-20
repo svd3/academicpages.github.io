@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I'm Saurabh. I'm currently a Ph.D student in Electrical Engineering at Rice University.
+Hi I'm Saurabh. I'm currently a Graduate student in Electrical Engineering at Rice University.
 I'm working with Dr. Xaq Pitkow in his computational neuroscience lab.
 
 Before starting at Rice, I worked at Samsung Research for 2 years.
