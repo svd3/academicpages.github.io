@@ -23,8 +23,8 @@ Work experience
 * Xaq Lab: Research Assistant, (2016 - 2018)
   * Designed experiments to study decision making/control in the animal brain.
   * Formulated, modeled, and solved the control problem for the designed experiments.
-  * Proposed novel approach to explain and detect change of mind/decision using the control framework.
-  * Developed novel framework for Inverse Reinforcement Learning in POMDPs with continuous states and continuous actions.
+  * Proposed _novel_ approach to explain and detect change of mind/decision using the control framework.
+  * Developed _novel_ framework for Inverse Reinforcement Learning in POMDPs with continuous states and continuous actions.
   * Applied the framework to recover the internal latent parameters for the brains' control model.
   * Predicted the choices made by monkey's with 96% accuracy with our model with the recovered parameters.
   * Predicted change of mind ~100 ms prior to the intended actions using our model.
@@ -46,35 +46,37 @@ Work experience
 Projects
 ======
 ---
-* Parameter Space Inverse Reinforcement Learning: Master's Thesis (2016 - 2018)
+* Parameter Space Inverse Reinforcement Learning: Master's Thesis, (2016 - 2018)   
 _Dr. Xaq Pitkow_
-  * abcd
-* Single Frame Image Super Resolution: B.Tech Final Project, (2013 - 2014)  
-_Prof. Devendra Jalihal_
-  * Implemented the kernel Hebbian algorithm for single frame image super resolution
-  * Integrated algorithm into a web application for medical/agricultural advisory.
-  * Presented a paper poster on the idea at Indo-UK meet.
+  * Developed a novel generalized framework for Inverse Reinforcement Learning to recover true parameters accurately within error bounds.
 
-* Image Captioning with RNNs
-  * Implemented a single layer RNN (LSTM) model to caption images on Microsoft COCO dataset.
-  * Working to train it on SVHN dataset to recognize numbers in images.
+* Control and Reinforcement Learning (RL)
+  * Implemented and trained various control and deep RL algorithms: LQR, Iterative LQG, deep Q Networks (DQN), Double DQN, deep deterministic Policy gradient (DDPG), Advantage Actor Critic (A2C) etc.
 
 * Decoding neural activity to estimate control target (_Neural Signal Processing_)
-  * Successfully decoded reach targets with the plan period and movement period signals from the dorsal pre-motor cortex.
-  * Also implemented and reproduced the results in the paper "Improving neural prosthetic system performance by combining plan and peri-movement activity", Yu et. al.
-  * Wrote a code to convert data from Python compatible .npz format to R compatible .rds format and made it available for the project.
+  * Decoded reach targets with 84% accuracy using the plan period and movement period signals from the dorsal pre-motor cortex.
 
 * Neural decoding: ECOG data to speech (_Statistical Learning_)
-  * Implemented ensemble methods to classify the signals into limited dictionary of words.
-  * Identified few brain areas, and frequencies which were important for decoding.
+  * Implemented ensemble methods to classify the neural recordings into dictionary of words with an accuracy of 74%.
+
+* Image Captioning with RNNs
+  * Implemented and trained a RNN (LSTM) model to caption images on COCO dataset.
+
+* Character Sequence RNNs
+  * Implemented and trained a single layer RNN (LSTM) char by char model to generate text.
+
+* Single Frame Image Super Resolution: B.Tech Thesis, (2013 - 2014)   
+_Prof. Devendra Jalihal_
+  * Implemented the kernel Hebbian algorithm for single frame image super resolution.
+  * Integrated algorithm into a web application for medical/agricultural advisory.
 
 Skills
 ======
 ---
 * Programming Languages:
-  * C, C++, Python, R, MATLAB
+  * Python, C, C++, R, MATLAB
 * Deep learning frameworks:
-  * PyTorch, Tensorflow, Keras
+  * PyTorch, Keras
 
 Publications
 ======
@@ -89,7 +91,7 @@ Publications
 Honors & Awards
 ======
 ---
-* (2016) **Fellowship**, Rice ECE Department Fellowship
+* (2016 - 2018) **Fellowship**, Rice ECE Department
 
 
 <!---
