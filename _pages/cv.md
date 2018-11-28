@@ -14,28 +14,41 @@ Education
 ======
 ---
 * B.Tech. in Electrical Engineering, Indian Institute of Technology Madras, 2014
-<!--- * M.S. in Electrical Engineering (Neuroscience), Rice University, 2016 - 2018 (expected) --->
-* Ph.D in Electrical Engineering (Neuroscience), Rice University, Ongoing (expected)
+* M.S. in Electrical Engineering (Neuroscience), Rice University, 2016 - 2018
+<!-- * Ph.D in Electrical Engineering (Neuroscience), Rice University, Ongoing (expected) -->
 
 Work experience
 ======
 ---
-* Xaq Labs: Research Assistant, (2016 - )
-  * Working on the Firefly project: Understanding the control algorithms of the brain
-  * Working on POMDPs, Reinforcement Learning to solve similar tasks in much broader and general framework.
-  * Working on Inverse Reinforcement Learning problem and graphical models to do inference on the assumed dynamics and latent variables of the brain
-  * Implemented Iterative LQG algorithm and Deep Q Network with experience replay to solve the firefly task.
-  * Developed OpenAI Gym environment with rendering for the firefly task.
+* Xaq Lab: Research Assistant, (2016 - 2018)
+  * Designed experiments to study decision making/control in the animal brain.
+  * Formulated, modeled, and solved the control problem for the designed experiments.
+  * Proposed novel approach to explain and detect change of mind/decision using the control framework.
+  * Developed novel framework for Inverse Reinforcement Learning in POMDPs with continuous states and continuous actions.
+  * Applied the framework to recover the internal latent parameters for the brains' control model.
+  * Predicted the choices made by monkey's with 96% accuracy with our model with the recovered parameters.
+  * Predicted change of mind ~100 ms prior to the intended actions using our model.
+  * Culminated the research in my Master's Thesis "The Science of Mind Reading: New Inverse Optimal Control framework".
 
 * Samsung R&D India: Senior Software Engineer
-  * Worked on the Car Analytics Engine and Smart Glove Gestures project
-  * Developed algorithms for the Samsung connect auto.
-  * Worked on user/driver profiling, context based dynamic fuel estimation modeling, maneuver detection, event detection, and gesture recognition based on IMU sensors.
-  * Worked on high-dimensional clustering algorithm and statistical learning methods.
+  * Samsung Auto Connect: Car and Driver Analytics
+    - Developed a solution for driver profiling and scoring.
+    - Trained algorithms for detection and classification of driving maneuvers with 92% accuracy.
+    - Modeled and developed dynamic context based fuel estimation.
+  * Samsung Gear Smartwatches: Sports Analytics
+    - Developed application for smart self tutoring for Tennis and Badminton in 'Gear S2' device.
+    - Engineered data collection (from professionals), preprocessing, and storing pipeline.
+    - Worked on providing smart recommendations, feedback and action matching based on professional players' strokes.
+  * Samsung Smart Glove (research)
+    - Designed wearable gloves (with sensors) to control Samsung devices.
+    - Built gesture recognition and user command interpretation based on sensor signals from the gloves with 82% accuracy.
 
 Projects
 ======
 ---
+* Parameter Space Inverse Reinforcement Learning: Master's Thesis (2016 - 2018)
+_Dr. Xaq Pitkow_
+  * abcd
 * Single Frame Image Super Resolution: B.Tech Final Project, (2013 - 2014)  
 _Prof. Devendra Jalihal_
   * Implemented the kernel Hebbian algorithm for single frame image super resolution
