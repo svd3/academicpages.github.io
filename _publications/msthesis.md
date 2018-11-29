@@ -1,6 +1,7 @@
 ---
 title: "The Science of Mind Reading: New Inverse Optimal Control framework"
 collection: publications
+link: /publication/msthesis
 permalink: /publication/msthesis
 download: /files/msthesis.pdf
 excerpt: 'Continuous control and planning by the brain remain poorly understood and is a major challenge in the field of Neuroscience. To truly say that we understand the underlying mechanisms we should first be able to explain the behavioral actions of the animals, so that we can relate the neural activity to these explanations.'
