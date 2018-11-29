@@ -1,6 +1,7 @@
 ---
 title: "Hidden Markov Model based driving event detection and driver profiling from mobile inertial sensor data"
 collection: publications
+url: /publication/hmm
 permalink: /publication/hmm
 download: /files/hmm_event_detection.pdf
 excerpt: 'In this paper, we propose Hidden Markov Model (HMM) based technique to detect lateral maneuvers and Jerk Energy based technique to detect longitudinal maneuvers.'
