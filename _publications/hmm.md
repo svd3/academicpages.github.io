@@ -1,6 +1,7 @@
 ---
 title: "Hidden Markov Model based driving event detection and driver profiling from mobile inertial sensor data"
 collection: publications
+link: true
 url: /publication/hmm
 permalink: /publication/hmm
 download: /files/hmm_event_detection.pdf
