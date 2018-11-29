@@ -21,6 +21,6 @@ In our "firefly" task, monkeys are trained to steer to catch transiently visible
 
 <span style="font-size: 0.8em;">
 Using reinforcement learning algorithms, we solve the forward problem of solving for the optimal actions given a model and a given reward function. We then propose a novel framework of inverse reinforcement learning, which learns optimal policies generalized over the model space. Our proposed method is able to recover the true model of simulated agents within theoretical error bounds. Finally, we interpret our framework in a way that opens new possibilities for hierarchical inference while an animal learns.
-<span style="font-size: 0.8em;">
 
+<span style="font-size: 0.8em;">
 [Download pdf](/files/mstheis.pdf) </span>
